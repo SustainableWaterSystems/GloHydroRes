@@ -3,7 +3,7 @@ The code in this repository is used to generate the GloHydroRes dataset and the 
 
 
 # Description 
-Analyzing these impacts requires detailed data on both hydropower plant attributes (e.g., type, installed capacity, head) and reservoir characteristics (e.g., area, depth, volume). However, current open-source datasets often lack integration, with plant datasets missing reservoir information and vice versa. This paper introduces GloHydroRes, a global dataset that bridges this gap by combining open-source hydropower plant and reservoir datasets.
+Analyzing the impacts requires detailed data on both hydropower plant attributes (e.g., type, installed capacity, head) and reservoir characteristics (e.g., area, depth, volume). However, current open-source datasets often lack integration, with plant datasets missing reservoir information and vice versa. GloHydroRes, a global dataset that bridges this gap by combining open-source hydropower plant and reservoir datasets.
 
 # Datasets used as input for GloHydroRes
 1. Global Power Plant Database from World Resource Institute (WRI) [https://datasets.wri.org/dataset/globalpowerplantdatabase]
